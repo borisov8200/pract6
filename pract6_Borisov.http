@@ -1,0 +1,6 @@
+@pract6_Borisov_HostAddress = http://localhost:5186
+
+GET {{pract6_Borisov_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
